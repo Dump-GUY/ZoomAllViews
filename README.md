@@ -28,11 +28,9 @@ IDA [switched from PyQt5 to PySide6 in version 9.2](https://docs.hex-rays.com/us
 
 ## Demo
 
-https://github.com/user-attachments/assets/PLACEHOLDER_VIDEO_ID
+https://github.com/user-attachments/assets/907aef8a-a438-4fa4-8c45-2ff436775e30
 
 *Ctrl+Scroll zooming across Disassembly, Pseudocode, Strings, Imports, and Functions views*
-
-<!-- Replace PLACEHOLDER_VIDEO_ID with the actual GitHub-hosted video URL -->
 
 ---
 
