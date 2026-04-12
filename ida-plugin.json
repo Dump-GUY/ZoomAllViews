@@ -1,0 +1,35 @@
+{
+  "IDAMetadataDescriptorVersion": 1,
+  "plugin": {
+    "name": "ZoomAllViews",
+    "entryPoint": "ZoomAllViews.py",
+    "version": "1.0.0",
+    "description": "Ctrl+Scroll wheel font zoom for all IDA views — Disassembly, Pseudocode, Hex View, Imports, Exports, Functions, Strings, Structures, and every chooser window. Compatible IDA Pro 8.x — 9.3+.",
+    "license": "MIT",
+    "idaVersions": ">=8.0",
+    "categories": [
+      "ui",
+      "api-scripting-and-automation"
+    ],
+    "urls": {
+      "repository": "https://github.com/Dump-GUY/ZoomAllViews"
+    },
+    "authors": [
+      {
+        "email": "",
+        "name": "Jiří Vinopal"
+      }
+    ],
+    "keywords": [
+      "zoom",
+      "font-size",
+      "ctrl-scroll",
+      "ui",
+      "accessibility",
+      "pyqt5",
+      "pyside6",
+      "qt5",
+      "qt6"
+    ]
+  }
+}
