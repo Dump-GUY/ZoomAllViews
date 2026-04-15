@@ -92,7 +92,7 @@ Copy the plugin file to your IDA plugins directory:
 Restart IDA. The output window confirms:
 
 ```
-[ZoomAllViews] v1.0.0 loaded  |  Ctrl-Shift-Z  |  Edit -> Plugins -> ZoomAllViews  |  Qt: pyside6
+[ZoomAllViews] v1.0.1 loaded  |  Ctrl-Shift-Z  |  Edit -> Plugins -> ZoomAllViews  |  Qt: pyside6
 ```
 
 ### IDA Plugin Manager (HCLI)
