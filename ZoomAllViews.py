@@ -8,7 +8,7 @@ Toggle        : Edit -> Plugins -> ZoomAllViews  |  Ctrl-Shift-Z
 """
 
 __author__ = "Jiri Vinopal (@Dump-GUY)"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 import ida_idaapi
 import ida_kernwin
