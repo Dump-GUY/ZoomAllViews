@@ -3,7 +3,7 @@
   "plugin": {
     "name": "ZoomAllViews",
     "entryPoint": "ZoomAllViews.py",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Ctrl+Scroll wheel font zoom for all IDA views — Disassembly, Pseudocode, Hex View, Imports, Exports, Functions, Strings, Structures, and every chooser window. Compatible IDA Pro 8.x — 9.3+.",
     "license": "MIT",
     "idaVersions": ">=8.0",
